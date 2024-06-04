@@ -1,0 +1,8 @@
+fitz==0.0.1.dev2
+Flask==3.0.3
+pandas==2.2.2
+Requests==2.32.3
+scikit_learn==1.4.2
+spacy==3.7.4
+torch==2.3.0
+transformers==4.41.0
